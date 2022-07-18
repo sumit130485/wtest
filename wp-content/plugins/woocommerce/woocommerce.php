@@ -1,5 +1,5 @@
 <?php
-echo "Hello Cloud";
+
 /**
  * Plugin Name: WooCommerce
  * Plugin URI: https://woocommerce.com/
