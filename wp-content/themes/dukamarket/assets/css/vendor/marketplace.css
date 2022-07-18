@@ -1,0 +1,112 @@
+
+/*----- WC MARKETPLACE -----*/
+body #report_abuse{
+    font-weight: 600;
+}
+body .wcmp_vendor_banner_template.template1 .img_div img{
+    border: none;
+}
+body .vendor_description_background{
+    line-height: inherit;
+}
+body .wcmp_vendor_rating{
+    margin: 0;
+}
+body #wcmp-store-conatiner .wcmp-store-detail-list li{
+    padding-inline-start: 35px;
+}
+body #wcmp-store-conatiner .wcmp-store-detail-list li:not(:last-of-type){
+    margin-bottom: 5px;
+}
+body #wcmp-store-conatiner .wcmp-store-detail-list li i{
+    top: -1px;
+    left: 0;
+    right: auto;
+    font-size: 20px;
+    line-height: 30px;
+    width: 28px;
+    text-align: center;
+}
+body #wcmp-store-conatiner .wcmp-store-detail-list li .ico-location-icon2{
+    font-size: 24px;
+}
+body #wcmp-store-conatiner .store-name{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 18px;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+body #wcmp-store-conatiner p{
+    font-size: 15px;
+    line-height: 24px;
+    padding: 3px 0;
+}
+body #wcmp-store-conatiner .wcmp-store-picture{
+    border: none;
+    background-color: transparent;
+}
+body #wcmp-store-conatiner .wcmp-store-picture:after{
+    display: none;
+}
+body #wcmp-store-conatiner .star-rating span{
+    padding: 0;
+}
+body #wcmp-store-conatiner .wcmp-cover-picture{
+    height: 220px;
+}
+body .wocommerce #wcmp_vendor_reviews,
+body .wocommerce #wcmp_vendor_reviews #comments{
+    margin: 50px 0 0;
+}
+body .wocommerce #wcmp_vendor_reviews .comment-form-rating .stars + .stars{
+    display: none;
+}
+body .wocommerce #wcmp_vendor_reviews textarea{
+    width: 100%;
+}
+body .wocommerce #wcmp_vendor_reviews .author{
+    color: #222;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+body .wocommerce #wcmp_vendor_reviews .comment-form-rating > label,
+body .wocommerce #wcmp_vendor_reviews .comment-form-rating .stars{
+    margin-bottom: 0;
+}
+body .wcmp_social_profile a:hover{
+    text-decoration: none;
+    opacity: 0.7;
+}
+body[class*="elementor"] .description_data{
+    display: none !important;
+}
+body .wcmp_vendor_banner_template.template3{
+    background-color: #f5f5f5;
+}
+body .wcmp_vendor_banner_template.template3 .star-rating > span{
+    background-color: #f5f5f5;
+}
+body .wcmp_vendor_banner_template.template3 .img_div{
+    width: 100px;
+}
+body .wcmp_vendor_banner_template.template3 .img_div + *{
+    display: inline-block;
+    vertical-align: top;
+    width: calc(100% - 100px);
+}
+body .wcmp_vendor_banner_template.template3 .vendor_img_add br{
+    display: none;
+}
+body .wcmp_vendor_banner_template.template3 .wcmp_vendor_detail{
+    color: #222;
+}
+body .wcmp_vendor_banner_template.template3 .wcmp_vendor_detail label{
+    margin: 0;
+    font-weight: 400;
+}
+@media (max-width: 1100px){
+    body .wcmp_vendor_banner_template.template1 .vendor_description{
+        border: 1px solid #ddd;
+    }
+}

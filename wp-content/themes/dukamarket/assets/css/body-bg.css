@@ -1,0 +1,92 @@
+body{
+    --body-bg-pd-h: 30px;
+    --body-bg-pd-v: 30px;
+}
+.dokan-pagination-container .dokan-pagination li a,
+.dokan-pagination-container .dokan-pagination li span,
+.woocommerce-pagination ul li a,
+.woocommerce-pagination ul li span{
+    background-color: #fff;
+}
+.post-head{
+    background-color: #fff;
+    box-shadow: 0 0 0 1px #e5e5e5 inset;
+    border-radius: var(--main-bora);
+    margin-bottom: -30px;
+}
+.post-head .post-thumb{
+    border-radius: 0;
+}
+.post-head .post-text{
+    padding: 0 var(--body-bg-pd-h);
+}
+.post-head .post-text > .inner{
+    padding-bottom: 30px;
+}
+.pagination-post,
+.woocommerce-tabs,
+.post-single > .post-inner .post_tag,
+.post-single > .post-inner .post-share,
+.post-author-info{
+    margin-top: 30px;
+}
+.comments-area .comments-title{
+    padding: 0 0 10px;
+    border-top: none;
+    margin-top: 30px;
+}
+.comment-respond{
+    padding-top: 0;
+    border-top: none;
+    margin-top: 30px;
+}
+.comments-area .comment-list{
+    background-color: #fff;
+    box-shadow: 0 0 0 1px #e5e5e5 inset;
+    padding: 1px var(--body-bg-pd-h) var(--body-bg-pd-v);
+    border-radius: var(--main-bora);
+}
+.woocommerce table.wishlist_table,
+.woocommerce-cart-form > .shop_table,
+.pagination-post,
+.post-content,
+.woocommerce-tabs.show-all .panel,
+.woocommerce-tabs:not(.show-all),
+.single-product-wrapper{
+    background-color: #fff;
+    box-shadow: 0 0 0 1px #e5e5e5 inset;
+    padding: var(--body-bg-pd-v) var(--body-bg-pd-h);
+    border-radius: var(--main-bora);
+    border: none;
+}
+.woocommerce-tabs.show-all .panel:not(:last-child){
+    margin-bottom: 30px;
+}
+.cart-collaterals{
+    background-color: #fff;
+    box-shadow: 0 0 0 1px #e5e5e5 inset;
+}
+@media (min-width: 1200px){
+    .post-head .post-text{
+        padding-inline-start: calc(var(--body-bg-pd-h) - 1px);
+        border-inline-start: 1px solid #e5e5e5;
+    }
+    .post-head .post-text > .inner{
+        box-shadow: 0 -1px #e5e5e5 inset;
+        padding-bottom: 30px;
+    }
+}
+@media (max-width: 1199px){
+    body{
+        --body-bg-pd-h: 20px;
+        --body-bg-pd-v: 20px;
+    }
+    .post-head{
+        margin-bottom: -10px;
+    }
+}
+@media (max-width: 767px){
+    body{
+        --body-bg-pd-h: 10px;
+    }
+}

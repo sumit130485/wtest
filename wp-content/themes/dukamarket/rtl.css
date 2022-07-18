@@ -1,0 +1,189 @@
+/*==========================================================================
+ICON
+===========================================================================*/
+i.fa-angle-right:before,
+span.fa-angle-right:before{
+    content: "\f104";
+}
+i.fa-angle-left:before,
+span.fa-angle-left:before{
+    content: "\f105";
+}
+i.fa-angle-double-right:before,
+span.fa-angle-double-right:before{
+    content: "\f100";
+}
+i.fa-angle-double-left:before,
+span.fa-angle-double-left:before{
+    content: "\f101";
+}
+i.fa-caret-right:before,
+span.fa-caret-right:before{
+    content: "\f0d9";
+}
+i.fa-caret-left:before,
+span.fa-caret-left:before{
+    content: "\f0da";
+}
+i.fa-arrow-circle-right:before,
+span.fa-arrow-circle-right:before{
+    content: "\f0a8";
+}
+i.fa-arrow-circle-left:before,
+span.fa-arrow-circle-left:before{
+    content: "\f0a9";
+}
+i.fa-chevron-circle-right:before,
+span.fa-chevron-circle-right:before{
+    content: "\f137";
+}
+i.fa-chevron-circle-left:before,
+span.fa-chevron-circle-left:before{
+    content: "\f138";
+}
+.main-icon-back:before{
+    content: "\e903";
+}
+.main-icon-next:before{
+    content: "\e902";
+}
+.main-icon-back-2:before{
+    content: "\e907";
+}
+.main-icon-next-2:before{
+    content: "\e906";
+}
+.main-icon-back-3:before{
+    content: "\e90b";
+}
+.main-icon-next-3:before{
+    content: "\e90a";
+}
+.main-icon-back-4:before{
+    content: "\e90d";
+}
+.main-icon-next-4:before{
+    content: "\e90c";
+}
+.main-icon-back-5:before{
+    content: "\e90f";
+}
+.main-icon-next-5:before{
+    content: "\e90e";
+}
+/*==========================================================================
+THEME
+===========================================================================*/
+/* mega menu */
+.box-header-nav .main-menu > .menu-item > .megamenu{
+    left: 0;
+    right: auto;
+}
+.ovic-menu-next-panel:before{
+    content: "\f104";
+}
+.ovic-menu-panels-actions-wrap .ovic-menu-close-btn{
+    left: 0;
+    right: auto;
+}
+.ovic-menu-panels-actions-wrap .ovic-menu-prev-panel{
+    left: auto;
+    right: 0;
+}
+div.ovic-menu-clone-wrap .ovic-menu-panel .ovic-menu-next-panel{
+    left: 0;
+    right: auto;
+}
+/*==========================================================================
+OVIC RTL
+===========================================================================*/
+/* rtl-bg */
+.ovic-rtl .elementor-section.rtl-bg > .elementor-container{
+    background: inherit;
+    border-radius: inherit;
+}
+.ovic-rtl .elementor-section.rtl-bg > .elementor-background-overlay{
+    background-color: inherit;
+    border-radius: inherit;
+}
+.ovic-rtl .elementor-section.rtl-bg > .elementor-background-overlay + .elementor-container{
+    background-color: transparent;
+}
+.ovic-rtl .elementor-column.rtl-bg > .elementor-column-wrap::before,
+.ovic-rtl .elementor-section.rtl-bg > .elementor-container::before,
+.ovic-rtl .elementor-section.rtl-bg > .elementor-background-overlay::before,
+.ovic-rtl .elementor-section.rtl-bg.background-zoom > .elementor-container::before{
+    position: absolute;
+    content: '';
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: inherit;
+    -webkit-transform: scale(-1,1);
+    -moz-transform: scale(-1,1);
+    -ms-transform: scale(-1,1);
+    -o-transform: scale(-1,1);
+    transform: scale(-1,1);
+    pointer-events: none;
+    border-radius: inherit;
+}
+.ovic-rtl .elementor-section.rtl-bg.background-zoom:hover > .elementor-container::before{
+    -webkit-transform: scale(-1.1,1.1);
+    -moz-transform: scale(-1.1,1.1);
+    -ms-transform: scale(-1.1,1.1);
+    -o-transform: scale(-1.1,1.1);
+    transform: scale(-1.1,1.1);
+}
+.ovic-rtl .elementor-widget-image.rtl-bg img,
+.ovic-rtl .elementor-widget-ovic_banner.rtl-bg .background,
+.ovic-rtl .elementor-widget-ovic_banner.rtl-bg img{
+    -webkit-transform: scale(-1,1);
+    -moz-transform: scale(-1,1);
+    -ms-transform: scale(-1,1);
+    -o-transform: scale(-1,1);
+    transform: scale(-1,1);
+}
+/* align */
+.ovic-rtl .elementor-align-right{
+    text-align: end;
+}
+.ovic-rtl .elementor-align-center{
+    text-align: center;
+}
+.ovic-rtl .elementor-align-left{
+    text-align: start;
+}
+@media (max-width: 1024px){
+    .ovic-rtl .elementor-tablet-align-right{
+        text-align: end;
+    }
+    .ovic-rtl .elementor-tablet-align-center{
+        text-align: center;
+    }
+    .ovic-rtl .elementor-tablet-align-left{
+        text-align: start;
+    }
+}
+@media (max-width: 767px){
+    .ovic-rtl .elementor-mobile-align-right{
+        text-align: end;
+    }
+    .ovic-rtl .elementor-mobile-align-center{
+        text-align: center;
+    }
+    .ovic-rtl .elementor-mobile-align-left{
+        text-align: start;
+    }
+}
+/*==========================================================================
+THEME
+===========================================================================*/
+.rtl .box-header-nav .main-menu > .menu-item > svg,
+.rtl .ovic-countdown.style-02 .number::before{
+    -webkit-transform: scale(-1,1);
+    -moz-transform: scale(-1,1);
+    -ms-transform: scale(-1,1);
+    -o-transform: scale(-1,1);
+    transform: scale(-1,1);
+}

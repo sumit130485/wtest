@@ -1,0 +1,2633 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DukaMarket\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-06 10:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: dukamarket"
+
+#: framework/function-blog.php:146
+msgid " All Author Posts"
+msgstr ""
+
+#: framework/settings/options.php:126 framework/settings/metabox.php:204
+msgid ""
+" for Section ( add class: main-bora-2 ) or Shortcode ( option Border Radius )"
+msgstr ""
+
+#: shortcode/ovic_category/ovic_category.php:66
+msgid " Products"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:165
+msgid " review"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:167
+msgid " reviews"
+msgstr ""
+
+#: framework/settings/options.php:690
+msgid " Sidebar Single Post Layout"
+msgstr ""
+
+#: woocommerce/single-product/review-average.php:33
+msgid " Star"
+msgstr ""
+
+#: framework/function-blog.php:123
+msgid "% Comments"
+msgstr ""
+
+#. 1: comment date
+#: framework/function-blog.php:413
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: woocommerce/single-product/review-average.php:23
+#, php-format
+msgid "%1$s Review"
+msgid_plural "%1$s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/settings/options.php:1379
+msgid "%n transient database entries have been deleted."
+msgstr ""
+
+#. %s template
+#: framework/settings/helpers.php:412
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: framework/settings/options.php:165
+msgid "- Align has direction left/right will be start/end"
+msgstr ""
+
+#: framework/settings/options.php:164
+msgid "- Sections has class \"rtl-bg\" will be has rtl background"
+msgstr ""
+
+#: framework/function-blog.php:278
+#: framework/woocommerce/template-functions.php:196
+msgid "..."
+msgstr ""
+
+#: framework/function-blog.php:121
+msgid "0 Comments"
+msgstr ""
+
+#: framework/function-blog.php:122
+msgid "1 Comment"
+msgstr ""
+
+#: framework/settings/options.php:1052 framework/settings/options.php:1143
+#: framework/settings/options.php:1234
+msgid "1200px <= resolution < 1500px"
+msgstr ""
+
+#: framework/settings/options.php:1042 framework/settings/options.php:1133
+#: framework/settings/options.php:1224
+msgid "1500px <= resolution"
+msgstr ""
+
+#: framework/settings/metabox.php:455
+msgid "360 Degree"
+msgstr ""
+
+#: framework/settings/options.php:265
+msgid "3D Unfold"
+msgstr ""
+
+#: framework/settings/options.php:339
+msgid "404 Error"
+msgstr ""
+
+#: framework/settings/options.php:344
+msgid "404 Image"
+msgstr ""
+
+#: framework/settings/options.php:1082 framework/settings/options.php:1173
+#: framework/settings/options.php:1264
+msgid "480px <= resolution < 768px"
+msgstr ""
+
+#: framework/settings/options.php:1072 framework/settings/options.php:1163
+#: framework/settings/options.php:1254
+msgid "768px <= resolution < 992px"
+msgstr ""
+
+#: framework/settings/options.php:1062 framework/settings/options.php:1153
+#: framework/settings/options.php:1244
+msgid "992px <= resolution < 1200px"
+msgstr ""
+
+#: templates/mobile/mobile-style-03.php:39
+msgid "Account"
+msgstr ""
+
+#: framework/settings/options.php:349
+msgid "ACE Settings"
+msgstr ""
+
+#: framework/settings/helpers.php:432
+msgid ""
+"action_args should not be overwritten when calling dukamarket_get_template."
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:88
+msgid "Active"
+msgstr ""
+
+#: shortcode/ovic_newsletter/config/elementor.php:85
+msgid "Add new form"
+msgstr ""
+
+#: framework/settings/options.php:1295
+msgid "Add New Social"
+msgstr ""
+
+#: framework/settings/options.php:224
+msgid "Add Sidebar"
+msgstr ""
+
+#: functions.php:155
+msgid "Add widgets here to appear in your blog sidebar."
+msgstr ""
+
+#: functions.php:160
+msgid "Add widgets here to appear in your post sidebar."
+msgstr ""
+
+#: functions.php:170
+msgid "Add widgets here to appear in your Product sidebar."
+msgstr ""
+
+#: functions.php:165
+msgid "Add widgets here to appear in your shop sidebar."
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:170
+msgid "Add your review"
+msgstr ""
+
+#: shortcode/ovic_countdown/config/elementor.php:124
+#: shortcode/ovic_tabs/config/elementor.php:106
+#: shortcode/ovic_menu/config/elementor.php:183
+#: shortcode/ovic_logo/config/elementor.php:68
+msgid "Alignment"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:282
+#: framework/woocommerce/template-functions.php:296
+msgid "All"
+msgstr ""
+
+#: templates-parts/header-search.php:47
+msgid "All Categories"
+msgstr ""
+
+#: framework/settings/options.php:1381
+msgid "All transient related database entries will be deleted."
+msgstr ""
+
+#: shortcode/ovic_newsletter/ovic_newsletter.php:32
+msgid "API key is empty."
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:244
+#: shortcode/ovic_blog/config/widget.php:92
+#: shortcode/ovic_tabs/config/elementor.php:418
+#: shortcode/ovic_products/config/elementor.php:385
+#: shortcode/ovic_products/config/editor.php:123
+msgid "Ascending"
+msgstr ""
+
+#: framework/settings/metabox.php:411
+msgid "Audio"
+msgstr ""
+
+#: framework/settings/metabox.php:416
+msgid "Audio source"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:225
+#: shortcode/ovic_blog/config/widget.php:71
+#: shortcode/ovic_tabs/config/elementor.php:394
+#: shortcode/ovic_products/config/elementor.php:361
+#: shortcode/ovic_products/config/editor.php:98
+msgid "Author"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1067
+msgid "Availability"
+msgstr ""
+
+#: woocommerce/single-product/stock.php:23
+msgid "Availability: "
+msgstr ""
+
+#: shortcode/ovic_person/config/elementor.php:79
+#: shortcode/ovic_person/config/widget.php:35
+msgid "Avatar"
+msgstr ""
+
+#: templates-parts/mobile-header.php:48
+msgid "Avatar Mobile"
+msgstr ""
+
+#: framework/woocommerce/template-hook.php:86
+#: shortcode/ovic_tabs/config/elementor.php:402
+#: shortcode/ovic_products/config/elementor.php:369
+#: shortcode/ovic_products/config/editor.php:106
+msgid "Average Rating"
+msgstr ""
+
+#: framework/settings/options.php:273 framework/settings/options.php:334
+#: shortcode/ovic_brand/config/elementor.php:101
+msgid "Background"
+msgstr ""
+
+#: framework/settings/options.php:556
+msgid "Background Mobile"
+msgstr ""
+
+#: framework/settings/helpers.php:71
+msgid "Background Slide"
+msgstr ""
+
+#: framework/settings/helpers.php:70
+msgid "Background Zoom"
+msgstr ""
+
+#: framework/settings/options.php:1369
+msgid "Backup / Reset"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:312
+#: shortcode/ovic_products/config/elementor.php:279
+#: shortcode/ovic_products/config/editor.php:39
+msgid "Best Selling Products"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:37
+msgid "Blog"
+msgstr ""
+
+#: framework/settings/options.php:612
+msgid "Blog Page"
+msgstr ""
+
+#: framework/settings/options.php:653
+msgid "Blog Pagination"
+msgstr ""
+
+#: framework/settings/options.php:646
+msgid "Blog Sidebar"
+msgstr ""
+
+#: framework/settings/options.php:703
+msgid "Blog Single Sidebar"
+msgstr ""
+
+#: framework/settings/options.php:623
+msgid "Blog Style"
+msgstr ""
+
+#: framework/settings/options.php:89 framework/settings/metabox.php:167
+msgid "Body Background"
+msgstr ""
+
+#: framework/settings/options.php:109 framework/settings/metabox.php:187
+msgid "Bold"
+msgstr ""
+
+#: shortcode/ovic_products/config/elementor.php:81
+msgid "Bootstrap"
+msgstr ""
+
+#: shortcode/ovic_products/config/elementor.php:423
+msgid "Bootstrap settings"
+msgstr ""
+
+#: shortcode/ovic_brand/config/elementor.php:129
+msgid "Border"
+msgstr ""
+
+#: framework/settings/helpers.php:77
+msgid "Border Plus"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:79
+#: shortcode/ovic_blog/config/elementor.php:81
+#: shortcode/ovic_category/config/elementor.php:183
+#: shortcode/ovic_category/config/elementor.php:185
+#: shortcode/ovic_tabs/config/elementor.php:503
+#: shortcode/ovic_tabs/config/elementor.php:516
+#: shortcode/ovic_products/config/elementor.php:146
+#: shortcode/ovic_products/config/elementor.php:159
+msgid "Border Radius"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:82
+#: shortcode/ovic_category/config/elementor.php:186
+#: shortcode/ovic_tabs/config/elementor.php:504
+#: shortcode/ovic_tabs/config/elementor.php:517
+#: shortcode/ovic_products/config/elementor.php:147
+#: shortcode/ovic_products/config/elementor.php:160
+msgid "Border Radius 2"
+msgstr ""
+
+#: framework/settings/helpers.php:76
+msgid "Border ScaleUp"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:460
+#: shortcode/ovic_tabs/config/elementor.php:479
+#: shortcode/ovic_products/config/elementor.php:102
+#: shortcode/ovic_products/config/elementor.php:121
+msgid "Border Style"
+msgstr ""
+
+#: framework/settings/helpers.php:75
+msgid "Border Zoom"
+msgstr ""
+
+#: framework/settings/helpers.php:68
+msgid "Bounce In"
+msgstr ""
+
+#: shortcode/ovic_brand/ovic_brand.php:53
+#: shortcode/ovic_brand/config/elementor.php:38
+msgid "Brand"
+msgstr ""
+
+#: framework/settings/options.php:307
+#: shortcode/ovic_heading/config/elementor.php:97
+#: shortcode/ovic_newsletter/config/elementor.php:106
+#: shortcode/ovic_newsletter/config/widget.php:51
+msgid "Button"
+msgstr ""
+
+#: framework/settings/options.php:1406
+msgid "by"
+msgstr ""
+
+#: framework/settings/enqueue.php:546
+msgid "Can not Load Data."
+msgstr ""
+
+#: shortcode/ovic_products/config/elementor.php:82
+msgid "Carousel"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:255
+#: shortcode/ovic_brand/config/elementor.php:161
+#: shortcode/ovic_tabs/config/elementor.php:582
+#: shortcode/ovic_products/config/elementor.php:400
+msgid "Carousel settings"
+msgstr ""
+
+#: templates-parts/post-head.php:15
+msgid "Categories: "
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1027
+#: shortcode/ovic_blog/config/elementor.php:193
+#: shortcode/ovic_category/config/elementor.php:37
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: shortcode/ovic_blog/config/widget.php:47
+msgid "Category Blog"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: shortcode/ovic_countdown/config/elementor.php:132
+#: shortcode/ovic_tabs/config/elementor.php:114
+#: shortcode/ovic_menu/config/elementor.php:191
+#: shortcode/ovic_logo/config/elementor.php:76
+msgid "Center"
+msgstr ""
+
+#: framework/settings/options.php:821
+msgid "Change Image"
+msgstr ""
+
+#: shortcode/ovic_products/config/editor.php:49
+msgid "Choose the target to filter products"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:233
+msgid "Class"
+msgstr ""
+
+#: shortcode/ovic_running/config/elementor.php:109
+#: shortcode/ovic_menu/config/elementor.php:227
+#: shortcode/ovic_menu/config/elementor.php:273
+msgid "Color"
+msgstr ""
+
+#: shortcode/ovic_menu/config/elementor.php:83
+msgid "Columns"
+msgstr ""
+
+#: shortcode/ovic_menu/config/elementor.php:99
+msgid "Columns Space"
+msgstr ""
+
+#: framework/function-blog.php:369
+msgid "Comment ..."
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:229
+#: shortcode/ovic_blog/config/widget.php:75
+#: shortcode/ovic_tabs/config/elementor.php:398
+#: shortcode/ovic_products/config/elementor.php:365
+#: shortcode/ovic_products/config/editor.php:102
+msgid "Comment count"
+msgstr ""
+
+#: templates-parts/header-user.php:63
+msgid "Comments"
+msgstr ""
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:52
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:48
+#, php-format
+msgctxt "comments title"
+msgid "One Comment on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:164
+msgid "Content"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:571
+#: shortcode/ovic_products/config/elementor.php:214
+msgid "Content Overflow"
+msgstr ""
+
+#. %s: Name of current post
+#: framework/function-blog.php:294
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: shortcode/ovic_countdown/config/elementor.php:39
+#: shortcode/ovic_countdown/config/elementor.php:81
+#: shortcode/ovic_heading/config/elementor.php:113
+msgid "Countdown"
+msgstr ""
+
+#: shortcode/ovic_heading/config/elementor.php:125
+msgid "Countdown Title"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:267
+#: shortcode/ovic_tabs/config/elementor.php:283
+msgid "Create template from"
+msgstr ""
+
+#: framework/settings/options.php:1193 framework/settings/options.php:1211
+msgid "Cross Sell Products"
+msgstr ""
+
+#: framework/settings/options.php:1208 framework/settings/options.php:1209
+msgid "Cross Sell products title"
+msgstr ""
+
+#: framework/settings/metabox.php:16
+msgid "Custom Page Side Options"
+msgstr ""
+
+#: framework/settings/metabox.php:434
+msgid "Custom Product Options"
+msgstr ""
+
+#: framework/settings/metabox.php:84
+msgid "Custom Theme Options"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:144
+#: shortcode/ovic_blog/config/elementor.php:223
+#: shortcode/ovic_blog/config/widget.php:35
+#: shortcode/ovic_blog/config/widget.php:69
+#: shortcode/ovic_tabs/config/elementor.php:392
+#: shortcode/ovic_products/config/elementor.php:359
+#: shortcode/ovic_products/config/editor.php:96
+msgid "Date"
+msgstr ""
+
+#: shortcode/ovic_countdown/ovic_countdown.php:37
+#: shortcode/ovic_heading/ovic_heading.php:41
+msgid "Days"
+msgstr ""
+
+#: shortcode/ovic_countdown/config/elementor.php:93
+#: shortcode/ovic_heading/config/elementor.php:134
+msgid "Days text"
+msgstr ""
+
+#: framework/settings/options.php:994
+msgid "Default"
+msgstr ""
+
+#: framework/settings/options.php:33 framework/settings/metabox.php:111
+msgid "Default Color"
+msgstr ""
+
+#: framework/settings/helpers.php:995
+msgid "Default Form"
+msgstr ""
+
+#: shortcode/ovic_category/config/elementor.php:93
+msgid "Default is Category Name"
+msgstr ""
+
+#: shortcode/ovic_category/config/elementor.php:103
+#: shortcode/ovic_category/config/elementor.php:120
+msgid "Default is Category Thumbnail"
+msgstr ""
+
+#: framework/settings/metabox.php:263
+msgid "default is Display location on Menu panel: \"Primary Menu\""
+msgstr ""
+
+#: framework/settings/options.php:875 framework/settings/options.php:886
+msgid "Default is General / Sidebar settings"
+msgstr ""
+
+#: framework/woocommerce/template-hook.php:84
+msgid "Default Sorting"
+msgstr ""
+
+#: framework/settings/metabox.php:29
+msgid "Default value in Theme Options"
+msgstr ""
+
+#: framework/settings/options.php:319
+msgid "Delay"
+msgstr ""
+
+#: framework/settings/options.php:1379 framework/settings/options.php:1380
+msgid "Delete Transients"
+msgstr ""
+
+#: shortcode/ovic_menu/config/elementor.php:131
+msgid "Delimiter"
+msgstr ""
+
+#: shortcode/ovic_menu/config/elementor.php:144
+msgid "Delimiter Opacity"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1112
+msgid "Delivery & Return"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:243
+#: shortcode/ovic_blog/config/widget.php:91
+#: shortcode/ovic_tabs/config/elementor.php:417
+#: shortcode/ovic_products/config/elementor.php:384
+#: shortcode/ovic_products/config/editor.php:122
+msgid "Descending"
+msgstr ""
+
+#: shortcode/ovic_person/config/elementor.php:109
+#: shortcode/ovic_person/config/widget.php:43
+#: shortcode/ovic_newsletter/config/widget.php:43
+msgid "Description"
+msgstr ""
+
+#: shortcode/ovic_blog/config/widget.php:97
+#: shortcode/ovic_products/config/editor.php:125
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: framework/settings/options.php:1010 framework/settings/options.php:1110
+#: framework/settings/options.php:1201
+msgid "Disable"
+msgstr ""
+
+#: framework/settings/options.php:950
+#: shortcode/ovic_tabs/config/elementor.php:562
+#: shortcode/ovic_products/config/elementor.php:205
+msgid "Disable Add to Cart"
+msgstr ""
+
+#: framework/settings/options.php:140
+msgid "Disable Equal Height"
+msgstr ""
+
+#: framework/settings/options.php:940
+#: shortcode/ovic_tabs/config/elementor.php:544
+#: shortcode/ovic_products/config/elementor.php:187
+msgid "Disable Labels"
+msgstr ""
+
+#: framework/settings/options.php:987
+msgid "Disable Lightbox Gallery"
+msgstr ""
+
+#: framework/settings/options.php:945
+#: shortcode/ovic_tabs/config/elementor.php:553
+#: shortcode/ovic_products/config/elementor.php:196
+msgid "Disable Rating"
+msgstr ""
+
+#: framework/settings/options.php:982
+msgid "Disable Zoom Gallery"
+msgstr ""
+
+#: templates-parts/popup-newsletter.php:55
+msgid "Do not show this popup again"
+msgstr ""
+
+#: framework/settings/helpers.php:322
+msgid "duka"
+msgstr ""
+
+#. Name of the theme
+msgid "DukaMarket"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"DukaMarket theme Shop is a simple but modern responsive WordPress theme that "
+"oozes high-street sophistication. Its sharp lines and flat design style has "
+"been designed to be pixel perfect. Simply load your photography and you can "
+"have an online shop to matches the likes of Prada, Gucci and Yves St Laurent."
+msgstr ""
+
+#: framework/function-blog.php:420
+msgid "Edit"
+msgstr ""
+
+#: framework/settings/helpers.php:259
+msgid "Edit This"
+msgstr ""
+
+#: framework/settings/options.php:367
+msgid "Editor Javascript"
+msgstr ""
+
+#: framework/settings/options.php:358
+msgid "Editor Style"
+msgstr ""
+
+#: framework/function-blog.php:361
+msgid "Email"
+msgstr ""
+
+#: framework/settings/options.php:1009 framework/settings/options.php:1109
+#: framework/settings/options.php:1200
+msgid "Enable"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:98
+msgid "Enable ajax"
+msgstr ""
+
+#: framework/settings/options.php:720
+msgid "Enable Author Info"
+msgstr ""
+
+#: framework/settings/options.php:155
+msgid "Enable Back To Top Button"
+msgstr ""
+
+#: framework/settings/options.php:145
+msgid "Enable Cache Options"
+msgstr ""
+
+#: framework/settings/options.php:972
+msgid "Enable Countdown"
+msgstr ""
+
+#: framework/settings/options.php:1203
+msgid "Enable Cross Sell Products"
+msgstr ""
+
+#: framework/settings/metabox.php:97
+msgid "Enable Metabox Options"
+msgstr ""
+
+#: framework/settings/options.php:150
+msgid "Enable Nav Ajax Comment"
+msgstr ""
+
+#: framework/settings/options.php:160
+msgid "Enable Ovic RTL"
+msgstr ""
+
+#: framework/settings/options.php:242
+msgid "Enable Popup"
+msgstr ""
+
+#: framework/settings/options.php:715
+msgid "Enable Prev/Next Post"
+msgstr ""
+
+#: framework/settings/options.php:415 framework/settings/metabox.php:256
+msgid "Enable Primary Menu"
+msgstr ""
+
+#: framework/settings/options.php:1012
+msgid "Enable Related Products"
+msgstr ""
+
+#: framework/settings/options.php:710 framework/settings/options.php:977
+msgid "Enable Share"
+msgstr ""
+
+#: framework/settings/options.php:1112
+msgid "Enable Upsell Products"
+msgstr ""
+
+#: framework/settings/options.php:135
+msgid "Enable/Disable"
+msgstr ""
+
+#: shortcode/ovic_products/config/editor.php:63
+msgid "Enter List of Products"
+msgstr ""
+
+#: framework/settings/options.php:302
+msgid "Enter your email address here..."
+msgstr ""
+
+#: shortcode/ovic_newsletter/config/elementor.php:97
+msgid "Enter your email address..."
+msgstr ""
+
+#: templates-parts/header-user.php:52
+msgid "Entries"
+msgstr ""
+
+#: templates-parts/mobile-header.php:22
+msgid "Example@email.com"
+msgstr ""
+
+#: framework/settings/metabox.php:73
+msgid "Extra Class"
+msgstr ""
+
+#: framework/settings/options.php:1302 framework/settings/options.php:1319
+msgid "Facebook"
+msgstr ""
+
+#: framework/settings/helpers.php:67
+msgid "Faded In"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:63
+msgid "Favorite"
+msgstr ""
+
+#: framework/woocommerce/template-hook.php:92
+msgid "Feature"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:310
+#: shortcode/ovic_products/config/elementor.php:277
+#: shortcode/ovic_products/config/editor.php:37
+msgid "Feature Products"
+msgstr ""
+
+#: framework/settings/helpers.php:82
+msgid "Flashlight"
+msgstr ""
+
+#: framework/settings/options.php:505 framework/settings/metabox.php:343
+msgid "Footer"
+msgstr ""
+
+#: framework/settings/options.php:511
+msgid "Footer Layout"
+msgstr ""
+
+#: framework/settings/options.php:599
+msgid "Footer Mobile"
+msgstr ""
+
+#: framework/settings/options.php:793
+msgid "for Grid"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:463
+#: shortcode/ovic_tabs/config/elementor.php:483
+#: shortcode/ovic_products/config/elementor.php:105
+#: shortcode/ovic_products/config/elementor.php:124
+msgid "Full"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Template"
+msgstr ""
+
+#: framework/settings/metabox.php:390
+msgid "Gallery"
+msgstr ""
+
+#: framework/settings/metabox.php:395
+msgid "Gallery source"
+msgstr ""
+
+#: framework/settings/options.php:17 framework/settings/options.php:20
+#: framework/settings/metabox.php:91
+#: shortcode/ovic_running/config/elementor.php:62
+#: shortcode/ovic_blog/config/elementor.php:61
+#: shortcode/ovic_countdown/config/elementor.php:63
+#: shortcode/ovic_heading/config/elementor.php:61
+#: shortcode/ovic_category/config/elementor.php:61
+#: shortcode/ovic_person/config/elementor.php:62
+#: shortcode/ovic_brand/config/elementor.php:63
+#: shortcode/ovic_tabs/config/elementor.php:62
+#: shortcode/ovic_menu/config/elementor.php:62
+#: shortcode/ovic_products/config/elementor.php:61
+#: shortcode/ovic_newsletter/config/elementor.php:63
+#: shortcode/ovic_logo/config/elementor.php:61
+msgid "General"
+msgstr ""
+
+#: framework/settings/options.php:410 framework/settings/metabox.php:251
+msgid "Get banner on header from page builder"
+msgstr ""
+
+#: framework/settings/options.php:752 framework/settings/options.php:775
+msgid "Get shop banner from page builder."
+msgstr ""
+
+#: content-none.php:4
+msgid "Get started here"
+msgstr ""
+
+#: framework/settings/helpers.php:69
+msgid "Gray Filter"
+msgstr ""
+
+#: framework/settings/options.php:626
+msgid "Grid"
+msgstr ""
+
+#: framework/settings/options.php:963
+msgid "Grid Gallery"
+msgstr ""
+
+#: framework/settings/options.php:924
+msgid "Grid Items Style"
+msgstr ""
+
+#: templates-parts/mobile-header.php:20
+msgid "Guest"
+msgstr ""
+
+#: shortcode/ovic_newsletter/config/elementor.php:116
+msgid "Has Border"
+msgstr ""
+
+#: framework/settings/options.php:376 framework/settings/metabox.php:231
+msgid "Header"
+msgstr ""
+
+#: framework/settings/options.php:409 framework/settings/metabox.php:250
+msgid "Header Banner"
+msgstr ""
+
+#: framework/settings/options.php:395
+msgid "Header Layout"
+msgstr ""
+
+#: framework/settings/options.php:379
+msgid "Header Main"
+msgstr ""
+
+#: framework/settings/options.php:445 framework/settings/metabox.php:300
+msgid "Header Message"
+msgstr ""
+
+#: framework/settings/options.php:384
+msgid "Header Sticky"
+msgstr ""
+
+#: framework/settings/options.php:421 framework/settings/metabox.php:276
+msgid "Header Submenu"
+msgstr ""
+
+#: framework/settings/options.php:433 framework/settings/metabox.php:288
+msgid "Header Submenu 2"
+msgstr ""
+
+#: shortcode/ovic_heading/config/elementor.php:37
+msgid "Heading"
+msgstr ""
+
+#: shortcode/ovic_category/config/elementor.php:148
+#: shortcode/ovic_brand/config/elementor.php:84
+msgid "Height"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:269
+#: shortcode/ovic_tabs/config/elementor.php:285
+msgid "Here"
+msgstr ""
+
+#: shortcode/ovic_newsletter/config/elementor.php:87
+msgid "Here!"
+msgstr ""
+
+#: shortcode/ovic_heading/config/elementor.php:79
+msgid "Hide Border"
+msgstr ""
+
+#: templates/mobile/mobile-style-01.php:36
+#: templates/mobile/mobile-style-03.php:35
+msgid "Home"
+msgstr ""
+
+#: shortcode/ovic_menu/config/elementor.php:73
+msgid "Horizontal"
+msgstr ""
+
+#: framework/settings/options.php:263
+msgid "Horizontal Move"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:43
+msgid "Hot"
+msgstr ""
+
+#: shortcode/ovic_countdown/ovic_countdown.php:38
+#: shortcode/ovic_heading/ovic_heading.php:42
+msgid "Hours"
+msgstr ""
+
+#: shortcode/ovic_countdown/config/elementor.php:101
+#: shortcode/ovic_heading/config/elementor.php:142
+msgid "Hours text"
+msgstr ""
+
+#: shortcode/ovic_category/config/elementor.php:173
+msgid "Hover"
+msgstr ""
+
+#: shortcode/ovic_blog/config/widget.php:62
+#: shortcode/ovic_products/config/editor.php:88
+msgid "How much items per page to show"
+msgstr ""
+
+#. URI of the theme
+msgid "https://dukamarket.kutethemes.net/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://kutethemes.com/"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:220
+#: shortcode/ovic_products/config/elementor.php:248
+msgid "https://your-link.com"
+msgstr ""
+
+#: shortcode/ovic_category/config/elementor.php:119
+#: shortcode/ovic_tabs/config/elementor.php:182
+#: shortcode/ovic_tabs/config/elementor.php:191
+msgid "Icon"
+msgstr ""
+
+#: framework/settings/options.php:1313
+msgid "Icon Social"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:224
+#: shortcode/ovic_blog/config/widget.php:70
+#: shortcode/ovic_tabs/config/elementor.php:393
+#: shortcode/ovic_products/config/elementor.php:360
+#: shortcode/ovic_products/config/editor.php:97
+msgid "ID"
+msgstr ""
+
+#: framework/settings/options.php:163
+msgid "If RTL Language:"
+msgstr ""
+
+#: framework/settings/metabox.php:98
+msgid ""
+"If this option enable then this page will get setting in here, else this "
+"page will get setting in Theme Options"
+msgstr ""
+
+#: framework/settings/options.php:278
+#: shortcode/ovic_category/config/elementor.php:102
+#: shortcode/ovic_tabs/config/elementor.php:181
+#: shortcode/ovic_tabs/config/elementor.php:207
+msgid "Image"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:111
+msgid "Image Full size"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:102
+msgid "Image height"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:93
+msgid "Image width"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1064
+msgid "In Stock"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:138
+msgid "in stock"
+msgstr ""
+
+#: framework/settings/options.php:657 framework/settings/options.php:833
+#: shortcode/ovic_products/config/elementor.php:237
+msgid "Infinite Scrolling"
+msgstr ""
+
+#: framework/settings/helpers.php:720
+msgid "Inherit Desktop"
+msgstr ""
+
+#: framework/settings/options.php:301
+#: shortcode/ovic_newsletter/config/elementor.php:96
+#: shortcode/ovic_newsletter/config/widget.php:47
+msgid "Input Placeholder"
+msgstr ""
+
+#: framework/settings/options.php:760
+msgid "Inside"
+msgstr ""
+
+#: framework/settings/options.php:1329
+msgid "Instagram"
+msgstr ""
+
+#: content-none.php:9
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: shortcode/ovic_menu/config/elementor.php:255
+msgid "Item"
+msgstr ""
+
+#: shortcode/ovic_brand/config/elementor.php:137
+msgid "Item Full Width"
+msgstr ""
+
+#: shortcode/ovic_menu/config/elementor.php:288
+msgid "Item Space"
+msgstr ""
+
+#: framework/settings/options.php:1041 framework/settings/options.php:1132
+#: framework/settings/options.php:1223
+msgid "items on Desktop"
+msgstr ""
+
+#: framework/settings/options.php:1061 framework/settings/options.php:1152
+#: framework/settings/options.php:1243
+msgid "items on Ipad"
+msgstr ""
+
+#: framework/settings/options.php:1071 framework/settings/options.php:1162
+#: framework/settings/options.php:1253
+msgid "items on Landscape Tablet"
+msgstr ""
+
+#: framework/settings/options.php:1051 framework/settings/options.php:1142
+#: framework/settings/options.php:1233
+msgid "items on Laptop"
+msgstr ""
+
+#: framework/settings/options.php:1091 framework/settings/options.php:1182
+#: framework/settings/options.php:1273
+msgid "items on Mobile"
+msgstr ""
+
+#: framework/settings/options.php:1081 framework/settings/options.php:1172
+#: framework/settings/options.php:1263
+msgid "items on Portrait Tablet"
+msgstr ""
+
+#: framework/settings/options.php:388
+msgid "jQuery"
+msgstr ""
+
+#. Author of the theme
+#: framework/settings/options.php:1408
+msgid "Kutethemes"
+msgstr ""
+
+#: framework/woocommerce/template-hook.php:87
+#: shortcode/ovic_blog/config/elementor.php:142
+msgid "Latest"
+msgstr ""
+
+#: framework/settings/helpers.php:912
+msgid "Latest Posts"
+msgstr ""
+
+#: shortcode/ovic_menu/config/elementor.php:70
+msgid "Layout"
+msgstr ""
+
+#: framework/function-blog.php:429
+msgid "Leave Reply"
+msgstr ""
+
+#: shortcode/ovic_countdown/config/elementor.php:128
+#: shortcode/ovic_tabs/config/elementor.php:110
+#: shortcode/ovic_menu/config/elementor.php:187
+#: shortcode/ovic_logo/config/elementor.php:72
+msgid "Left"
+msgstr ""
+
+#: framework/settings/options.php:496 framework/settings/metabox.php:337
+msgid "Less Categories"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:209
+#: shortcode/ovic_blog/config/widget.php:61
+#: shortcode/ovic_tabs/config/elementor.php:378
+#: shortcode/ovic_products/config/elementor.php:345
+#: shortcode/ovic_products/config/editor.php:87
+msgid "Limit"
+msgstr ""
+
+#: shortcode/ovic_heading/config/elementor.php:104
+#: shortcode/ovic_person/config/elementor.php:131
+#: shortcode/ovic_person/config/widget.php:51
+#: shortcode/ovic_tabs/config/elementor.php:218
+#: shortcode/ovic_products/config/elementor.php:247
+msgid "Link"
+msgstr ""
+
+#: framework/settings/options.php:1307
+msgid "Link Social"
+msgstr ""
+
+#: shortcode/ovic_products/config/elementor.php:78
+#: shortcode/ovic_products/config/editor.php:21
+msgid "List style"
+msgstr ""
+
+#: shortcode/ovic_products/layout/shortcode_before.php:109
+msgid "LOAD MORE"
+msgstr ""
+
+#: framework/settings/options.php:656 framework/settings/options.php:832
+#: woocommerce/loop/pagination.php:52
+#: shortcode/ovic_products/config/elementor.php:236
+msgid "Load More"
+msgstr ""
+
+#: framework/function-blog.php:226
+msgid "Load more"
+msgstr ""
+
+#: framework/function-blog.php:227 woocommerce/loop/pagination.php:53
+msgid "Loading"
+msgstr ""
+
+#: templates-parts/mobile-header.php:21
+msgid "Login"
+msgstr ""
+
+#: templates-parts/header-user.php:95
+msgid "Login "
+msgstr ""
+
+#: framework/settings/options.php:25 framework/settings/metabox.php:103
+#: shortcode/ovic_brand/ovic_brand.php:53
+#: shortcode/ovic_logo/config/elementor.php:37
+msgid "Logo"
+msgstr ""
+
+#: framework/settings/options.php:533
+msgid "Logo Mobile"
+msgstr ""
+
+#: templates-parts/mobile-header.php:32
+msgid "Logout"
+msgstr ""
+
+#: framework/function-theme.php:333
+msgid "Looking for"
+msgstr ""
+
+#: framework/settings/options.php:116 framework/settings/metabox.php:194
+msgid "Main Border Radius"
+msgstr ""
+
+#: framework/settings/options.php:125 framework/settings/metabox.php:203
+msgid "Main Border Radius 2"
+msgstr ""
+
+#: framework/settings/options.php:40 framework/settings/metabox.php:118
+msgid "Main Color"
+msgstr ""
+
+#: framework/settings/options.php:47 framework/settings/metabox.php:125
+msgid "Main Color - Button Hover"
+msgstr ""
+
+#: framework/settings/options.php:54 framework/settings/metabox.php:132
+msgid "Main Color - Text Inside"
+msgstr ""
+
+#: framework/settings/options.php:62 framework/settings/metabox.php:140
+msgid "Main Color 2"
+msgstr ""
+
+#: framework/settings/options.php:69 framework/settings/metabox.php:147
+msgid "Main Color 3"
+msgstr ""
+
+#: framework/settings/options.php:76 framework/settings/metabox.php:154
+msgid "Main Color 4"
+msgstr ""
+
+#: framework/settings/options.php:83 framework/settings/metabox.php:161
+msgid "Main Color 5"
+msgstr ""
+
+#: framework/settings/options.php:94 framework/settings/metabox.php:172
+msgid "Main Container"
+msgstr ""
+
+#: framework/settings/options.php:104 framework/settings/metabox.php:182
+msgid "Main Font Weight"
+msgstr ""
+
+#: framework/settings/helpers.php:1030
+msgid "Main Menu"
+msgstr ""
+
+#: shortcode/ovic_menu/config/elementor.php:242
+msgid "Margin"
+msgstr ""
+
+#: framework/settings/helpers.php:323
+msgid "market"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:178
+msgid "Media"
+msgstr ""
+
+#: framework/settings/options.php:107 framework/settings/metabox.php:185
+msgid "Medium"
+msgstr ""
+
+#: framework/function-theme.php:201 templates/mobile/mobile-style-01.php:40
+#: shortcode/ovic_menu/config/elementor.php:38
+#: shortcode/ovic_menu/config/elementor.php:175
+msgid "Menu"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:230
+#: shortcode/ovic_blog/config/widget.php:76
+#: shortcode/ovic_tabs/config/elementor.php:399
+#: shortcode/ovic_products/config/elementor.php:366
+#: shortcode/ovic_products/config/editor.php:103
+msgid "Menu order"
+msgstr ""
+
+#: templates-parts/header-user.php:84
+msgctxt "meta widget link text"
+msgid "WordPress.org"
+msgstr ""
+
+#: shortcode/ovic_countdown/ovic_countdown.php:39
+#: shortcode/ovic_heading/ovic_heading.php:43
+msgid "Mins"
+msgstr ""
+
+#: shortcode/ovic_countdown/config/elementor.php:109
+#: shortcode/ovic_heading/config/elementor.php:150
+msgid "Mins text"
+msgstr ""
+
+#: framework/settings/options.php:519
+msgid "Mobile"
+msgstr ""
+
+#: framework/settings/options.php:569
+msgid "Mobile Content"
+msgstr ""
+
+#: framework/settings/options.php:522 framework/settings/options.php:540
+msgid "Mobile Layout"
+msgstr ""
+
+#: framework/settings/options.php:586
+msgid "Mobile Menu Bottom"
+msgstr ""
+
+#: framework/settings/options.php:574
+msgid "Mobile Menu Top"
+msgstr ""
+
+#: framework/settings/options.php:550
+msgid "Mobile Top Banner"
+msgstr ""
+
+#: framework/settings/options.php:527
+msgid "Mobile version"
+msgstr ""
+
+#: framework/settings/options.php:674
+msgid "Modern"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:227
+#: shortcode/ovic_blog/config/widget.php:73
+#: shortcode/ovic_tabs/config/elementor.php:396
+#: shortcode/ovic_products/config/elementor.php:363
+#: shortcode/ovic_products/config/editor.php:100
+msgid "Modified"
+msgstr ""
+
+#: framework/settings/options.php:490 framework/settings/metabox.php:331
+msgid "More Categories"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:405
+#: shortcode/ovic_products/config/elementor.php:372
+#: shortcode/ovic_products/config/editor.php:109
+msgid "Most Viewed"
+msgstr ""
+
+#: framework/settings/options.php:264
+msgid "Move From Top"
+msgstr ""
+
+#: framework/settings/options.php:225
+msgid "Multi Sidebar"
+msgstr ""
+
+#: templates-parts/header-user.php:17
+msgid "My Account"
+msgstr ""
+
+#: framework/function-theme.php:334
+msgid "My Search"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:64
+msgid "My Wishlist"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1011
+#: woocommerce/single-product/meta.php:29
+msgid "N/A"
+msgstr ""
+
+#: framework/function-blog.php:360
+#: shortcode/ovic_person/config/elementor.php:90
+#: shortcode/ovic_person/config/widget.php:39
+msgid "Name"
+msgstr ""
+
+#: framework/settings/options.php:230
+msgid "Name Sidebar"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:262
+#: shortcode/ovic_brand/config/elementor.php:168
+#: shortcode/ovic_tabs/config/elementor.php:589
+#: shortcode/ovic_products/config/elementor.php:410
+msgid "Nav style"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:30
+msgid "New"
+msgstr ""
+
+#: shortcode/ovic_newsletter/config/elementor.php:39
+msgid "Newsletter"
+msgstr ""
+
+#: shortcode/ovic_newsletter/config/elementor.php:81
+msgid "Newsletter Form"
+msgstr ""
+
+#: framework/settings/options.php:262
+msgid "Newspaper"
+msgstr ""
+
+#: comments.php:81 framework/function-blog.php:207
+#: framework/woocommerce/template-hook.php:57
+#: framework/woocommerce/template-functions.php:1266
+#: woocommerce/loop/pagination.php:39
+msgid "Next"
+msgstr ""
+
+#: framework/function-blog.php:344
+msgid "Next Post"
+msgstr ""
+
+#: shortcode/ovic_products/ovic_products.php:100
+msgid "No Product"
+msgstr ""
+
+#: framework/settings/helpers.php:831
+msgid "No Product Found"
+msgstr ""
+
+#: framework/settings/options.php:314
+msgid "No Thank ! I am not interested in this promotion "
+msgstr ""
+
+#: framework/settings/options.php:386 framework/settings/options.php:408
+#: framework/settings/options.php:428 framework/settings/options.php:440
+#: framework/settings/options.php:471 framework/settings/options.php:581
+#: framework/settings/options.php:593 framework/settings/options.php:819
+#: framework/settings/helpers.php:64 framework/settings/helpers.php:724
+#: framework/settings/metabox.php:249 framework/settings/metabox.php:270
+#: framework/settings/metabox.php:283 framework/settings/metabox.php:295
+#: framework/settings/metabox.php:312
+#: shortcode/ovic_blog/config/elementor.php:222
+#: shortcode/ovic_blog/config/elementor.php:242
+#: shortcode/ovic_blog/config/widget.php:68
+#: shortcode/ovic_blog/config/widget.php:90
+#: shortcode/ovic_tabs/config/elementor.php:391
+#: shortcode/ovic_tabs/config/elementor.php:416
+#: shortcode/ovic_tabs/config/elementor.php:462
+#: shortcode/ovic_tabs/config/elementor.php:481
+#: shortcode/ovic_products/config/elementor.php:80
+#: shortcode/ovic_products/config/elementor.php:104
+#: shortcode/ovic_products/config/elementor.php:123
+#: shortcode/ovic_products/config/elementor.php:234
+#: shortcode/ovic_products/config/elementor.php:358
+#: shortcode/ovic_products/config/elementor.php:383
+#: shortcode/ovic_products/config/editor.php:95
+#: shortcode/ovic_products/config/editor.php:121
+msgid "None"
+msgstr ""
+
+#: framework/settings/helpers.php:65
+msgid "Normal Effect"
+msgstr ""
+
+#: framework/settings/helpers.php:66
+msgid "Normal Effect Dark"
+msgstr ""
+
+#: shortcode/ovic_products/config/editor.php:78
+msgid ""
+"Note: If you want to narrow output, select category(s) above. Only selected "
+"categories will be displayed."
+msgstr ""
+
+#: content-none.php:1
+msgid "Nothing Found"
+msgstr ""
+
+#: framework/settings/options.php:1034
+msgid "Number Related products to show"
+msgstr ""
+
+#: framework/settings/options.php:296
+msgid "ON YOUR NEXT PURCHASE"
+msgstr ""
+
+#: framework/woocommerce/template-hook.php:91
+msgid "On-Sale"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:219
+#: shortcode/ovic_blog/config/widget.php:66
+#: shortcode/ovic_tabs/config/elementor.php:388
+#: shortcode/ovic_products/config/elementor.php:355
+#: shortcode/ovic_products/config/editor.php:93
+msgid "Order by"
+msgstr ""
+
+#: framework/settings/options.php:759
+msgid "Outside"
+msgstr ""
+
+#: framework/settings/helpers.php:79
+msgid "Overlay Cross"
+msgstr ""
+
+#: framework/settings/helpers.php:80
+msgid "Overlay Horizontal"
+msgstr ""
+
+#: framework/settings/helpers.php:78
+msgid "Overlay Plus"
+msgstr ""
+
+#: framework/settings/helpers.php:81
+msgid "Overlay Vertical"
+msgstr ""
+
+#: shortcode/ovic_brand/config/elementor.php:149
+msgid "Ovic Hover Animation"
+msgstr ""
+
+#: shortcode/ovic_blog/config/widget.php:17
+msgid "Ovic: Blog"
+msgstr ""
+
+#: shortcode/ovic_newsletter/config/widget.php:16
+msgid "Ovic: Newsletter"
+msgstr ""
+
+#: shortcode/ovic_person/config/widget.php:16
+msgid "Ovic: Person"
+msgstr ""
+
+#: shortcode/ovic_brand/config/elementor.php:116
+msgid "Padding"
+msgstr ""
+
+#: framework/settings/options.php:329
+msgid "Page Head"
+msgstr ""
+
+#: framework/settings/metabox.php:28
+msgid "Page Head Background"
+msgstr ""
+
+#: framework/settings/metabox.php:34
+msgid "Page Head Height"
+msgstr ""
+
+#: framework/settings/metabox.php:45
+msgid "Page Head Height on Mobile"
+msgstr ""
+
+#: framework/settings/metabox.php:39
+msgid "Page Head Height on Tablet"
+msgstr ""
+
+#: 404.php:25
+msgid "Page Not Found"
+msgstr ""
+
+#: page.php:80 framework/settings/metabox.php:66
+msgid "Page Sidebar"
+msgstr ""
+
+#: framework/settings/options.php:617 framework/settings/options.php:738
+msgid "Page Title"
+msgstr ""
+
+#: page.php:56 framework/function-blog.php:299
+msgid "Pages:"
+msgstr ""
+
+#: framework/settings/options.php:655 framework/settings/options.php:831
+#: shortcode/ovic_products/config/elementor.php:231
+msgid "Pagination"
+msgstr ""
+
+#: shortcode/ovic_person/config/elementor.php:38
+msgid "Person"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr ""
+
+#: shortcode/ovic_newsletter/ovic_newsletter.php:49
+msgid "Please Active plugin \"Mailchimp for WordPress\"."
+msgstr ""
+
+#: framework/settings/helpers.php:74
+msgid "Plus Zoom"
+msgstr ""
+
+#: framework/woocommerce/template-hook.php:85
+#: shortcode/ovic_blog/config/elementor.php:143
+#: shortcode/ovic_blog/config/widget.php:34
+#: shortcode/ovic_tabs/config/elementor.php:403
+#: shortcode/ovic_products/config/elementor.php:370
+#: shortcode/ovic_products/config/editor.php:107
+msgid "Popularity"
+msgstr ""
+
+#: framework/settings/options.php:259
+msgid "Popup Effect"
+msgstr ""
+
+#: framework/settings/options.php:237
+msgid "Popup Newsletter"
+msgstr ""
+
+#: framework/settings/options.php:247
+msgid "Popup Page"
+msgstr ""
+
+#: shortcode/ovic_person/config/elementor.php:98
+msgid "Position"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:146
+#: shortcode/ovic_blog/config/elementor.php:178
+msgid "Post"
+msgstr ""
+
+#: framework/function-blog.php:86
+msgid "Post By"
+msgstr ""
+
+#: framework/function-blog.php:100
+msgid "Post Date:"
+msgstr ""
+
+#: framework/settings/metabox.php:373
+msgid "Post formats"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:180
+msgid "Post ids"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:231
+#: shortcode/ovic_tabs/config/elementor.php:404
+#: shortcode/ovic_products/config/elementor.php:371
+#: shortcode/ovic_products/config/editor.php:108
+msgid "Post In"
+msgstr ""
+
+#: framework/settings/metabox.php:361
+msgid "Post Meta"
+msgstr ""
+
+#: index.php:77
+msgid "Post Sidebar"
+msgstr ""
+
+#: framework/settings/options.php:665
+msgid "Post Single"
+msgstr ""
+
+#: functions.php:158
+msgid "Post Widget Area"
+msgstr ""
+
+#: framework/settings/metabox.php:445
+msgid "Poster Video"
+msgstr ""
+
+#: framework/settings/options.php:609
+msgid "Posts Settings"
+msgstr ""
+
+#: templates-parts/header-user.php:83
+msgid ""
+"Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: comments.php:80 framework/function-blog.php:206
+#: framework/woocommerce/template-hook.php:56
+#: framework/woocommerce/template-functions.php:1259
+#: woocommerce/loop/pagination.php:38
+msgid "Prev"
+msgstr ""
+
+#: framework/function-blog.php:336
+msgid "Previous Post"
+msgstr ""
+
+#: framework/woocommerce/template-hook.php:89
+msgid "Price: High To Low"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:401
+#: shortcode/ovic_products/config/elementor.php:368
+#: shortcode/ovic_products/config/editor.php:105
+msgid "Price: high to low"
+msgstr ""
+
+#: framework/woocommerce/template-hook.php:88
+msgid "Price: Low To High"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:400
+#: shortcode/ovic_products/config/elementor.php:367
+#: shortcode/ovic_products/config/editor.php:104
+msgid "Price: low to high"
+msgstr ""
+
+#: functions.php:83 framework/settings/metabox.php:262
+msgid "Primary Menu"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:296
+#: shortcode/ovic_tabs/config/elementor.php:347
+#: shortcode/ovic_products/config/elementor.php:314
+msgid "Product"
+msgstr ""
+
+#: shortcode/ovic_products/config/editor.php:77
+msgid "Product Categories"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1005
+msgid "Product Code"
+msgstr ""
+
+#: framework/settings/options.php:1217
+msgid "Product Cross Sell Layout"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:349
+#: shortcode/ovic_products/config/elementor.php:316
+msgid "Product ids"
+msgstr ""
+
+#: framework/settings/options.php:817
+msgid "Product Image Hover"
+msgstr ""
+
+#: framework/settings/options.php:1026
+msgid "Product Related Layout"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:442
+msgid "Product Settings"
+msgstr ""
+
+#: framework/settings/options.php:955
+msgid "Product Single"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:450
+#: shortcode/ovic_products/config/elementor.php:92
+#: shortcode/ovic_products/config/editor.php:26
+msgid "Product style"
+msgstr ""
+
+#: framework/settings/options.php:992
+msgid "Product Tabs"
+msgstr ""
+
+#: framework/settings/options.php:960
+msgid "Product Thumbnails"
+msgstr ""
+
+#: framework/settings/options.php:1126
+msgid "Product Upsell Layout"
+msgstr ""
+
+#: functions.php:168
+msgid "Product Widget Area"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:167
+#: shortcode/ovic_tabs/config/elementor.php:314
+#: shortcode/ovic_products/config/elementor.php:37
+#: shortcode/ovic_products/config/elementor.php:224
+#: shortcode/ovic_products/config/elementor.php:281
+#: shortcode/ovic_products/config/editor.php:41
+#: shortcode/ovic_products/config/editor.php:62
+msgid "Products"
+msgstr ""
+
+#: shortcode/ovic_brand/config/elementor.php:70
+msgid "Products Brand"
+msgstr ""
+
+#: shortcode/ovic_category/config/elementor.php:78
+#: shortcode/ovic_tabs/config/elementor.php:315
+#: shortcode/ovic_tabs/config/elementor.php:362
+#: shortcode/ovic_products/config/elementor.php:282
+#: shortcode/ovic_products/config/elementor.php:329
+#: shortcode/ovic_products/config/editor.php:42
+msgid "Products Category"
+msgstr ""
+
+#: framework/settings/options.php:792
+msgid "Products Columns"
+msgstr ""
+
+#: framework/settings/options.php:812
+msgid "Products Newness"
+msgstr ""
+
+#: framework/settings/options.php:805
+msgid "Products Per Page"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:316
+#: shortcode/ovic_products/config/elementor.php:283
+#: shortcode/ovic_products/config/editor.php:43
+msgid "Products Related"
+msgstr ""
+
+#: templates-parts/header-search.php:67
+msgid "Products search"
+msgstr ""
+
+#: framework/settings/options.php:98 framework/settings/options.php:119
+#: framework/settings/options.php:129 framework/settings/options.php:181
+#: framework/settings/options.php:202 framework/settings/options.php:879
+#: framework/settings/options.php:901 framework/settings/metabox.php:176
+#: framework/settings/metabox.php:197 framework/settings/metabox.php:207
+msgid "px"
+msgstr ""
+
+#: framework/settings/metabox.php:377
+msgid "Quote"
+msgstr ""
+
+#: framework/settings/metabox.php:382
+msgid "Quote Text"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:501
+#: shortcode/ovic_products/config/elementor.php:144
+msgid "Radius of Button"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:514
+#: shortcode/ovic_products/config/elementor.php:157
+msgid "Radius of Wrap"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:147
+#: shortcode/ovic_blog/config/elementor.php:228
+#: shortcode/ovic_blog/config/widget.php:37
+#: shortcode/ovic_blog/config/widget.php:74
+#: shortcode/ovic_tabs/config/elementor.php:397
+#: shortcode/ovic_products/config/elementor.php:364
+#: shortcode/ovic_products/config/editor.php:101
+msgid "Random"
+msgstr ""
+
+#: framework/function-blog.php:257
+msgid "Read More"
+msgstr ""
+
+#: content-none.php:4
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: shortcode/ovic_blog/config/widget.php:33
+msgid "Recent post"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:309
+#: shortcode/ovic_products/config/elementor.php:276
+#: shortcode/ovic_products/config/editor.php:36
+msgid "Recent Products"
+msgstr ""
+
+#: framework/settings/options.php:106 framework/settings/metabox.php:184
+msgid "Regular"
+msgstr ""
+
+#: framework/settings/options.php:1002 framework/settings/options.php:1020
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: framework/settings/options.php:1033
+msgid "Related products Items"
+msgstr ""
+
+#: framework/settings/options.php:1017 framework/settings/options.php:1018
+msgid "Related products title"
+msgstr ""
+
+#: framework/settings/options.php:1374
+msgid "Reset"
+msgstr ""
+
+#: framework/settings/options.php:198 framework/settings/options.php:209
+#: framework/settings/options.php:897 framework/settings/options.php:908
+#: framework/settings/metabox.php:40
+msgid "resolution < 1200px"
+msgstr ""
+
+#: framework/settings/options.php:1092 framework/settings/options.php:1183
+#: framework/settings/options.php:1274
+msgid "resolution < 480px"
+msgstr ""
+
+#: framework/settings/metabox.php:46
+msgid "resolution < 768px"
+msgstr ""
+
+#: 404.php:27
+msgid "Return to Homepage"
+msgstr ""
+
+#: shortcode/ovic_countdown/config/elementor.php:136
+#: shortcode/ovic_tabs/config/elementor.php:118
+#: shortcode/ovic_menu/config/elementor.php:195
+#: shortcode/ovic_logo/config/elementor.php:80
+msgid "Right"
+msgstr ""
+
+#: framework/settings/helpers.php:72
+msgid "Rotate Left In"
+msgstr ""
+
+#: framework/settings/helpers.php:73
+msgid "Rotate Right In"
+msgstr ""
+
+#: templates-parts/header-user.php:53 templates-parts/header-user.php:64
+msgid "RSS"
+msgstr ""
+
+#: shortcode/ovic_running/config/elementor.php:38
+msgid "Running"
+msgstr ""
+
+#: framework/woocommerce/template-hook.php:90
+#: woocommerce/loop/sale-flash.php:36
+msgid "Sale"
+msgstr ""
+
+#: framework/settings/options.php:290
+msgid "SALE 20% OFF"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:311
+#: shortcode/ovic_products/config/elementor.php:278
+#: shortcode/ovic_products/config/editor.php:38
+msgid "Sale Products"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:37
+msgid "Save "
+msgstr ""
+
+#: comments.php:28
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: searchform.php:18
+msgid "Search"
+msgstr ""
+
+#: templates-parts/header-search.php:20
+msgid "Search ..."
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:157
+msgid "Search Post"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:326
+#: shortcode/ovic_products/config/elementor.php:293
+msgid "Search Product"
+msgstr ""
+
+#: framework/settings/helpers.php:934
+#, php-format
+msgid "Search Results for: \"%s\""
+msgstr ""
+
+#: shortcode/ovic_countdown/ovic_countdown.php:40
+#: shortcode/ovic_heading/ovic_heading.php:44
+msgid "Secs"
+msgstr ""
+
+#: shortcode/ovic_countdown/config/elementor.php:117
+#: shortcode/ovic_heading/config/elementor.php:158
+msgid "Secs text"
+msgstr ""
+
+#: shortcode/ovic_blog/config/widget.php:54
+#: shortcode/ovic_blog/config/widget.php:55
+msgid "Select a category"
+msgstr ""
+
+#: shortcode/ovic_products/config/editor.php:29
+msgid "Select a style for product item"
+msgstr ""
+
+#: shortcode/ovic_blog/config/widget.php:81
+#: shortcode/ovic_products/config/editor.php:111
+#, php-format
+msgid "Select how to sort retrieved products. More at %s."
+msgstr ""
+
+#: framework/settings/options.php:782
+msgid "Select layout for shop product, product category archive."
+msgstr ""
+
+#: shortcode/ovic_menu/config/elementor.php:176
+msgid "Select menu to display."
+msgstr ""
+
+#: framework/settings/options.php:750 framework/settings/options.php:773
+msgid "Select Page"
+msgstr ""
+
+#: shortcode/ovic_products/config/editor.php:72
+msgid "Select Products Category"
+msgstr ""
+
+#: framework/settings/options.php:634 framework/settings/options.php:691
+msgid "Select sidebar position on Blog."
+msgstr ""
+
+#: framework/settings/metabox.php:52
+msgid "Select sidebar position on Page."
+msgstr ""
+
+#: framework/settings/options.php:847
+msgid "Select sidebar position on Shop Page."
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:69
+#: shortcode/ovic_blog/config/widget.php:25
+#: shortcode/ovic_countdown/config/elementor.php:71
+#: shortcode/ovic_heading/config/elementor.php:69
+#: shortcode/ovic_category/config/elementor.php:69
+#: shortcode/ovic_person/config/elementor.php:70
+#: shortcode/ovic_person/config/widget.php:24
+#: shortcode/ovic_newsletter/config/elementor.php:71
+#: shortcode/ovic_newsletter/config/widget.php:24
+msgid "Select style"
+msgstr ""
+
+#: framework/settings/options.php:660
+msgid "Select style pagination on blog page."
+msgstr ""
+
+#: framework/settings/options.php:836
+msgid "Select style pagination on shop page."
+msgstr ""
+
+#: framework/settings/options.php:108 framework/settings/metabox.php:186
+msgid "Semi-bold"
+msgstr ""
+
+#: framework/settings/options.php:557
+msgid "Setting Background For Mobile Menu"
+msgstr ""
+
+#: framework/settings/options.php:26 framework/settings/options.php:534
+#: framework/settings/metabox.php:104
+msgid "Setting Logo For Site"
+msgstr ""
+
+#: shortcode/ovic_products/config/elementor.php:70
+msgid "Settings"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1048
+msgid "Share"
+msgstr ""
+
+#: framework/settings/options.php:774
+msgid "Shop Builder Bottom"
+msgstr ""
+
+#: framework/settings/options.php:757
+msgid "Shop Builder Position"
+msgstr ""
+
+#: framework/settings/options.php:751
+msgid "Shop Builder Top"
+msgstr ""
+
+#: framework/settings/options.php:477 framework/settings/metabox.php:318
+msgid "Shop by Department"
+msgstr ""
+
+#: framework/settings/options.php:781
+msgid "Shop Layout"
+msgstr ""
+
+#: framework/settings/options.php:733
+msgid "Shop Page"
+msgstr ""
+
+#: framework/settings/options.php:918
+msgid "Shop Page Items"
+msgstr ""
+
+#: framework/settings/options.php:841
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: framework/settings/options.php:846
+msgid "Shop Page Sidebar Layout"
+msgstr ""
+
+#: framework/settings/options.php:829
+msgid "Shop Pagination"
+msgstr ""
+
+#: sidebar-shop.php:17
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:163
+msgid "Shop Widget Area"
+msgstr ""
+
+#: framework/settings/options.php:935
+#: shortcode/ovic_tabs/config/elementor.php:526
+#: shortcode/ovic_products/config/elementor.php:169
+msgid "Short Title"
+msgstr ""
+
+#: framework/settings/options.php:930
+msgid "Short Title on Mobile ( < 768px )"
+msgstr ""
+
+#: framework/settings/options.php:995
+msgid "Show All"
+msgstr ""
+
+#: shortcode/ovic_category/config/elementor.php:140
+msgid "Show Count"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:119
+msgid "Show Excerpt"
+msgstr ""
+
+#: framework/function-theme.php:59 templates/mobile/mobile-style-01.php:45
+#: templates/mobile/mobile-style-01.php:50
+#: templates/mobile/mobile-style-03.php:44
+#: templates/mobile/mobile-style-03.php:49
+msgid "Sidebar"
+msgstr ""
+
+#: framework/settings/options.php:633
+msgid "Sidebar Blog Layout"
+msgstr ""
+
+#: framework/settings/options.php:172
+msgid "Sidebar Settings"
+msgstr ""
+
+#: framework/settings/options.php:187 framework/settings/options.php:885
+msgid "Sidebar Space"
+msgstr ""
+
+#: framework/settings/options.php:208 framework/settings/options.php:907
+msgid "Sidebar Space Tablet"
+msgstr ""
+
+#: framework/settings/options.php:859
+msgid "Sidebar Used For Shop"
+msgstr ""
+
+#: framework/settings/options.php:867
+msgid "Sidebar Used For Vendor"
+msgstr ""
+
+#: framework/settings/options.php:177 framework/settings/options.php:874
+msgid "Sidebar Width"
+msgstr ""
+
+#: framework/settings/options.php:197 framework/settings/options.php:896
+msgid "Sidebar Width Tablet"
+msgstr ""
+
+#: framework/settings/options.php:284
+msgid "SIGN UP FOR OUR NEWSLETTER & PROMOTIONS !"
+msgstr ""
+
+#: shortcode/ovic_person/config/elementor.php:117
+#: shortcode/ovic_person/config/widget.php:47
+msgid "Signature"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:482
+#: shortcode/ovic_products/config/elementor.php:125
+msgid "Simple"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:169
+msgid "Simple Link"
+msgstr ""
+
+#: framework/settings/metabox.php:51
+msgid "Single Page Sidebar Position"
+msgstr ""
+
+#: framework/settings/options.php:671
+msgid "Single Post Layout"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:29
+msgid "SKU:"
+msgstr ""
+
+#: framework/settings/options.php:964
+msgid "Slide Gallery"
+msgstr ""
+
+#: framework/settings/options.php:822
+msgid "Slide Image"
+msgstr ""
+
+#: framework/settings/options.php:1289 framework/settings/options.php:1294
+msgid "Social"
+msgstr ""
+
+#: framework/settings/options.php:1296
+msgid "Social Settings"
+msgstr ""
+
+#: framework/woocommerce/template-hook.php:208
+msgid "Sold by"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:47
+msgid "Sold out"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1097
+msgid "Sold:"
+msgstr ""
+
+#: content-none.php:6
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"Sorry, the page you've requested is not available. Please try searching for "
+"something else or return to Homepage."
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:239
+#: shortcode/ovic_blog/config/widget.php:88
+#: shortcode/ovic_tabs/config/elementor.php:413
+#: shortcode/ovic_products/config/elementor.php:380
+#: shortcode/ovic_products/config/editor.php:119
+msgid "Sort order"
+msgstr ""
+
+#: framework/settings/options.php:625 framework/settings/options.php:673
+#: framework/settings/options.php:962
+msgid "Standard"
+msgstr ""
+
+#: framework/settings/options.php:219
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: framework/settings/options.php:965
+msgid "Sticky Summary"
+msgstr ""
+
+#: shortcode/ovic_running/config/elementor.php:91
+msgid "Style"
+msgstr ""
+
+#: framework/settings/helpers.php:101
+#: shortcode/ovic_person/config/widget.php:27
+#: shortcode/ovic_newsletter/config/widget.php:27
+msgid "Style 01"
+msgstr ""
+
+#: shortcode/ovic_newsletter/config/widget.php:31
+msgid "Style 02"
+msgstr ""
+
+#: shortcode/ovic_newsletter/config/widget.php:35
+msgid "Style 03"
+msgstr ""
+
+#: comments.php:34
+msgid "Submit"
+msgstr ""
+
+#: shortcode/ovic_newsletter/config/elementor.php:107
+msgid "Subscribe"
+msgstr ""
+
+#: framework/settings/options.php:308
+msgid "Subscribe & Get our promotion now !"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:135
+msgid "Tab Content"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:70
+msgid "Tab style"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:155
+#: shortcode/ovic_tabs/config/elementor.php:156
+msgid "Tab Title"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:38
+msgid "Tabs"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1037
+msgid "Tag"
+msgid_plural "Tags"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:34
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: shortcode/ovic_blog/config/elementor.php:139
+#: shortcode/ovic_blog/config/widget.php:31
+#: shortcode/ovic_tabs/config/elementor.php:306
+#: shortcode/ovic_products/config/elementor.php:273
+#: shortcode/ovic_products/config/editor.php:34
+msgid "Target"
+msgstr ""
+
+#: framework/settings/options.php:387
+#: shortcode/ovic_tabs/config/elementor.php:168
+#: shortcode/ovic_tabs/config/elementor.php:244
+msgid "Template"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:255
+#: shortcode/ovic_tabs/config/elementor.php:278
+msgid "Template ID"
+msgstr ""
+
+#: shortcode/ovic_running/config/elementor.php:72
+#: shortcode/ovic_heading/config/elementor.php:88
+msgid "Text"
+msgstr ""
+
+#: framework/settings/options.php:283
+msgid "Text 1"
+msgstr ""
+
+#: framework/settings/options.php:289
+msgid "Text 2"
+msgstr ""
+
+#: framework/settings/options.php:295
+msgid "Text 3"
+msgstr ""
+
+#: framework/settings/options.php:313
+msgid "Text 4"
+msgstr ""
+
+#: shortcode/ovic_products/config/elementor.php:262
+msgid "Text button"
+msgstr ""
+
+#: framework/settings/options.php:55 framework/settings/metabox.php:133
+msgid "Text inside \"Boxes has background main color\" will has this color"
+msgstr ""
+
+#: framework/settings/metabox.php:374
+msgid "The data post formats"
+msgstr ""
+
+#: framework/settings/options.php:254
+msgid "The page popup will be show."
+msgstr ""
+
+#: framework/function-theme.php:431
+msgid "Theme Icons"
+msgstr ""
+
+#: framework/settings/options.php:1391 framework/settings/options.php:1405
+msgid "Theme Options"
+msgstr ""
+
+#: framework/settings/options.php:680
+msgid "Thumb Height"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:145
+#: shortcode/ovic_blog/config/elementor.php:226
+#: shortcode/ovic_blog/config/widget.php:21
+#: shortcode/ovic_blog/config/widget.php:36
+#: shortcode/ovic_blog/config/widget.php:72
+#: shortcode/ovic_category/config/elementor.php:92
+#: shortcode/ovic_person/config/widget.php:20
+#: shortcode/ovic_tabs/config/elementor.php:79
+#: shortcode/ovic_tabs/config/elementor.php:146
+#: shortcode/ovic_tabs/config/elementor.php:153
+#: shortcode/ovic_tabs/config/elementor.php:395
+#: shortcode/ovic_menu/config/elementor.php:122
+#: shortcode/ovic_menu/config/elementor.php:209
+#: shortcode/ovic_products/config/elementor.php:362
+#: shortcode/ovic_products/config/editor.php:14
+#: shortcode/ovic_products/config/editor.php:99
+#: shortcode/ovic_newsletter/config/widget.php:20
+msgid "Title"
+msgstr ""
+
+#: framework/settings/options.php:1301
+msgid "Title Social"
+msgstr ""
+
+#: templates/mobile/mobile-style-01.php:57
+#: templates/mobile/mobile-style-03.php:67
+msgid "Top"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:313
+#: shortcode/ovic_products/config/elementor.php:280
+#: shortcode/ovic_products/config/editor.php:40
+msgid "Top Rated Products"
+msgstr ""
+
+#: framework/settings/options.php:1324
+msgid "Twitter"
+msgstr ""
+
+#: framework/settings/options.php:1345
+#: shortcode/ovic_running/config/elementor.php:99
+#: shortcode/ovic_menu/config/elementor.php:217
+#: shortcode/ovic_menu/config/elementor.php:263
+msgid "Typography"
+msgstr ""
+
+#: framework/settings/options.php:1350 framework/settings/metabox.php:213
+msgid "Typography of Body"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:1086
+msgid "Unlimit"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:36
+msgid "Up Sells Products"
+msgstr ""
+
+#: shortcode/ovic_tabs/config/elementor.php:535
+#: shortcode/ovic_products/config/elementor.php:178
+msgid "Uppercase Title"
+msgstr ""
+
+#: framework/settings/options.php:1102 framework/settings/options.php:1120
+msgid "Upsell Products"
+msgstr ""
+
+#: framework/settings/options.php:1117 framework/settings/options.php:1118
+msgid "Upsell products title"
+msgstr ""
+
+#: shortcode/ovic_menu/config/elementor.php:72
+msgid "Vertical"
+msgstr ""
+
+#: framework/settings/options.php:493 framework/settings/metabox.php:336
+msgid "Vertical Button Show Less"
+msgstr ""
+
+#: framework/settings/options.php:487 framework/settings/metabox.php:330
+msgid "Vertical Button Show More"
+msgstr ""
+
+#: framework/settings/options.php:484 framework/settings/metabox.php:325
+msgid "Vertical Items"
+msgstr ""
+
+#: framework/settings/options.php:450 framework/settings/options.php:464
+#: framework/settings/metabox.php:305
+msgid "Vertical Menu"
+msgstr ""
+
+#: framework/settings/options.php:459
+msgid "Vertical Menu Always Open"
+msgstr ""
+
+#: framework/settings/options.php:476 framework/settings/metabox.php:317
+msgid "Vertical Title"
+msgstr ""
+
+#: framework/settings/metabox.php:400
+msgid "Video"
+msgstr ""
+
+#: framework/settings/metabox.php:406
+msgid "Video source"
+msgstr ""
+
+#: framework/settings/metabox.php:450
+msgid "Video Url"
+msgstr ""
+
+#: shortcode/ovic_products/config/elementor.php:235
+msgid "View all"
+msgstr ""
+
+#: framework/settings/enqueue.php:545
+#: shortcode/ovic_newsletter/ovic_newsletter.php:31
+#: shortcode/ovic_newsletter/ovic_newsletter.php:48
+msgid "Warning!"
+msgstr ""
+
+#: functions.php:153
+msgid "Widget Area"
+msgstr ""
+
+#: templates/mobile/mobile-style-03.php:60
+msgid "Wishlist"
+msgstr ""
+
+#: framework/settings/options.php:730
+msgid "WooCommerce"
+msgstr ""
+
+#: shortcode/ovic_blog/config/elementor.php:128
+msgid "Word Number in Excerpt"
+msgstr ""
+
+#: shortcode/ovic_blog/config/widget.php:83
+#: shortcode/ovic_blog/config/widget.php:99
+#: shortcode/ovic_products/config/editor.php:113
+#: shortcode/ovic_products/config/editor.php:127
+msgid "WordPress codex page"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:36
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:630
+msgid "Your Cart"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:619
+msgid "Your Cart:"
+msgstr ""
+
+#: framework/function-blog.php:388
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/function-blog.php:390
+msgid ""
+"Your comment is awaiting moderation. This is a preview, your comment will be "
+"visible after it has been approved."
+msgstr ""
+
+#: framework/settings/options.php:1334
+msgid "Youtube"
+msgstr ""
+
+#: framework/settings/options.php:820
+msgid "Zoom Image"
+msgstr ""
+
+#: framework/settings/options.php:261
+msgid "Zoom In"
+msgstr ""
+
+#: framework/settings/options.php:266
+msgid "Zoom Out"
+msgstr ""

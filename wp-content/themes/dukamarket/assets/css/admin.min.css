@@ -1,0 +1,42 @@
+.ovic-field-text input{
+    width: 100%;
+}
+[class*=" flaticon-"]::before{
+    margin-left: 0;
+}
+.fip-icons-container .icon *{
+    display: inline-block;
+    vertical-align: top;
+    width: auto;
+    height: auto;
+    line-height: inherit;
+}
+.field-icon-settings .icon[data-value*="flaticon-"] i::before,
+.field-icon-settings .selected-icon[data-value*="flaticon-"] i::before,
+.field-icon-settings .icon[data-value*="main-icon-"] i::before,
+.field-icon-settings .selected-icon[data-value*="main-icon-"] i::before,
+.field-icon-settings .icon[data-value*="dashicons"] i::before,
+.field-icon-settings .selected-icon[data-value*="dashicons"] i::before{
+    font-size: 20px;
+}
+body .ovic-widgets .ovic-field-checkbox .ovic-title{
+    display: inline-block;
+    vertical-align: top;
+    width: auto;
+}
+body .ovic-widgets .ovic-field-checkbox .ovic-fieldset{
+    float: left;
+    width: auto;
+    margin: -1px 3px 0px 0;
+}
+body .ovic-widgets .ovic-field-checkbox .ovic-fieldset label{
+    font-weight: inherit;
+}
+.menu-item-handle .item-title .menu-icon,
+.menu-item-handle .item-title .menu-label{
+    font-size: 24px;
+}
+body .ovic-addon-dashboard .changelog{
+    font-size: 16px;
+    line-height: 26px;
+}

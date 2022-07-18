@@ -1,0 +1,72 @@
+---------------------------------------------------------------------
+Version: 1.0.6 - ( 06-09-2021 )
+---------------------------------------------------------------------
+
+Update:
+- css of Option Typography of Body
+- class of menu button on Header Mobile layout 03
+- some other css
+- Dokan Store List per page 10 to 9
+
+---------------------------------------------------------------------
+Version: 1.0.5 - ( 27-07-2021 )
+---------------------------------------------------------------------
+
+Update:
+- Import Database
+
+Fixed:
+- When Shop Page used Product Item style 03,04: Product Items in last row can't show Add To Cart button
+
+---------------------------------------------------------------------
+Version: 1.0.4 - ( 24-07-2021 )
+---------------------------------------------------------------------
+
+New:
+- Home page 09,10 and Header, Footer, Slider
+- Shortcode:
+  + Product: 08,09
+- Theme Options / General / Default Color
+- 7 Icon for Health & Medicals
+
+Update:
+- Import Database
+- Loading Effect
+- Header Sticky : Template
+- Option Border Radius of Shortcode Products
+
+---------------------------------------------------------------------
+Version: 1.0.3 - ( 16-07-2021 )
+---------------------------------------------------------------------
+
+Fixed:
+- Vertical Menu Popup don't show all item
+
+Update:
+- Hide Category on Header Block Search in Laptop ( 1200px <= resolution < 1500px )
+
+---------------------------------------------------------------------
+Version: 1.0.2 - ( 09-07-2021 )
+---------------------------------------------------------------------
+
+New:
+- Mobile layout 03
+
+Update:
+- Preview of Theme Options / Mobile / Mobile Layout
+- Import Database
+- Multi-Vendors: Dokan, WCFM
+
+---------------------------------------------------------------------
+Version: 1.0.1 - ( 05-07-2021 )
+---------------------------------------------------------------------
+
+Update:
+- RTL Language supported
+- Import Database
+
+---------------------------------------------------------------------
+Version: 1.0.0
+---------------------------------------------------------------------
+
+Initial release
